@@ -1,0 +1,5 @@
+1. Create a new GitHub repository, e.g. ibm-spacex-capstone-reference.
+2. Upload the entire contents of this folder (not the outer folder itself).
+3. Copy the repository URL.
+4. Replace the placeholder "PASTE YOUR OWN REPOSITORY URL HERE" in the presentation/README if desired.
+5. The grader's GitHub criterion specifically requires the repository URL, so this step cannot be completed without access to your GitHub account.
